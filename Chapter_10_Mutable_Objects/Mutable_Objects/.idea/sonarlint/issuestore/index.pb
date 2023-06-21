@@ -1,0 +1,7 @@
+
+_
+/src/mutableObjects/pointObject/PointObject.java,b\a\ba5d68d708f0fe9405b73a7a3705b53e39bd47b7
+k
+;src/mutableObjects/objectAsParameter/ObjectAsParameter.java,2\8\28220de39a8d046971a34336c8c3a07baed5fbb7
+s
+Csrc/mutableObjects/objectAsReturnedValue/ObjectAsReturnedValue.java,8\5\8500c2a37962fccb3c0c815c68334240ad2106dd
