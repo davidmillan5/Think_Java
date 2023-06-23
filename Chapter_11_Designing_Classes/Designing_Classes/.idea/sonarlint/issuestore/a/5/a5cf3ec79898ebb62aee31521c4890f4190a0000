@@ -1,0 +1,18 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µèï8ì›—ó1
+€
+java:S4165"dRemove this useless assignment; "second" already holds the assigned value along all execution paths.(ƒ§·38›œ—ó1
+
+java:S4165"dRemove this useless assignment; "minute" already holds the assigned value along all execution paths.(ìÂòÉ8›œ—ó1
+„
+java:S4165
+"bRemove this useless assignment; "hour" already holds the assigned value along all execution paths.(ˆ©°Íıÿÿÿÿ8›œ—ó1
+w
+java:S1201-"UEither override Object.equals(Object), or rename the method to prevent any confusion.(˜µöıÿÿÿÿ8°œ—ó1
+Q
+java:S1656
+"/Remove or correct this useless self-assignment.(ˆ©°Íıÿÿÿÿ8Åœ—ó1
+L
+java:S1656"/Remove or correct this useless self-assignment.(ìÂòÉ8Åœ—ó1
+K
+java:S1656"/Remove or correct this useless self-assignment.(ƒ§·38Æœ—ó1
